@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "resolveJsonModule": true,
+    "typeRoots": ["./node_modules/@types"],
+    "lib": ["ES6", "DOM"],
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "templateId": "V0351_POKEMON_CASTFORM_HOME_FORM_REVERSION",
+    "pokemonHomeFormReversions": {
+      "pokemonId": "CASTFORM",
+      "formMapping": [
+        {
+          "revertedForm": "CASTFORM_NORMAL",
+          "unauthorizedForms": [
+            "CASTFORM_SUNNY",
+            "CASTFORM_RAINY",
+            "CASTFORM_SNOWY"
+          ],
+          "revertedFormString": "form_castform_normal_full"
+        }
+      ]
+    }
+  },
+  {
+    "templateId": "V0487_POKEMON_GIRATINA_HOME_REVERSION",
+    "pokemonHomeFormReversions": {
+      "pokemonId": "GIRATINA",
+      "formMapping": [
+        {
+          "revertedForm": "GIRATINA_ALTERED",
+          "unauthorizedForms": [
+            "GIRATINA_ORIGIN"
+          ],
+          "revertedFormString": "form_altered"
+        }
+      ]
+    }
+  },
+  {
+    "templateId": "V0555_POKEMON_DARMANITAN_HOME_FORM_REVERSION",
+    "pokemonHomeFormReversions": {
+      "pokemonId": "DARMANITAN",
+      "formMapping": [
+        {
+          "revertedForm": "DARMANITAN_STANDARD",
+          "unauthorizedForms": [
+            "DARMANITAN_ZEN"
+          ],
+          "revertedFormString": "form_standard_mode"
+        },
+        {
+          "revertedForm": "DARMANITAN_GALARIAN_STANDARD",
+          "unauthorizedForms": [
+            "DARMANITAN_GALARIAN_ZEN"
+          ],
+          "revertedFormString": "form_standard_mode"
+        }
+      ]
+    }
+  },
+  {
+    "templateId": "V0647_POKEMON_KELDEO_HOME_FORM_REVERSION",
+    "pokemonHomeFormReversions": {
+      "pokemonId": "KELDEO",
+      "formMapping": [
+        {
+          "revertedForm": "KELDEO_ORDINARY",
+          "unauthorizedForms": [
+            "KELDEO_RESOLUTE"
+          ],
+          "revertedFormString": "form_ordinary_full"
+        }
+      ]
+    }
+  },
+  {
+    "templateId": "V0648_POKEMON_MELOETTA_HOME_FORM_REVERSION",
+    "pokemonHomeFormReversions": {
+      "pokemonId": "MELOETTA",
+      "formMapping": [
+        {
+          "revertedForm": "MELOETTA_ARIA",
+          "unauthorizedForms": [
+            "MELOETTA_PIROUETTE"
+          ],
+          "revertedFormString": "form_aria"
+        }
+      ]
+    }
+  },
+  {
+    "templateId": "V0649_POKEMON_GENESECT_HOME_FORM_REVERSION",
+    "pokemonHomeFormReversions": {
+      "pokemonId": "GENESECT",
+      "formMapping": [
+        {
+          "revertedForm": "GENESECT_NORMAL",
+          "unauthorizedForms": [
+            "GENESECT_BURN",
+            "GENESECT_CHILL",
+            "GENESECT_DOUSE",
+            "GENESECT_SHOCK"
+          ],
+          "revertedFormString": "form_no_drive_full"
+        }
+      ]
+    }
+  }
+]
